@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc8fe61-25e8-432a-8a1c-b821397ea232" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../Jsoup">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Phone_Book" />
+  </component>
+  <component name="ProjectId" id="1WXkL0L30DtygwVH8FquXCHUYqb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jsoup" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.phonebook.MainKt">
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems__1_-Triples_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Triangle_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="phonebook.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Phone_Book-task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="phonebook.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.phonebook.MainKt" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc8fe61-25e8-432a-8a1c-b821397ea232" name="Default Changelist" comment="" />
+      <created>1579303266168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579303266168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580131788866">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="718" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580131788866" />
+    <state x="761" y="275" key="FileChooserDialogImpl" timestamp="1580131623100">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="761" y="275" key="FileChooserDialogImpl/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580131623100" />
+    <state width="1366" height="121" key="GridCell.Tab.0.bottom" timestamp="1580342297580">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1920" height="192" key="GridCell.Tab.0.bottom/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580125717221" />
+    <state width="1366" height="121" key="GridCell.Tab.0.bottom/0.0.1366.706@0.0.1366.706" timestamp="1580342297580" />
+    <state width="1920" height="293" key="GridCell.Tab.0.bottom/1920.74.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1579341156802" />
+    <state width="1366" height="121" key="GridCell.Tab.0.center" timestamp="1580342297580">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1920" height="192" key="GridCell.Tab.0.center/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580125717221" />
+    <state width="1366" height="121" key="GridCell.Tab.0.center/0.0.1366.706@0.0.1366.706" timestamp="1580342297580" />
+    <state width="1920" height="293" key="GridCell.Tab.0.center/1920.74.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1579341156801" />
+    <state width="1366" height="121" key="GridCell.Tab.0.left" timestamp="1580342297580">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1920" height="192" key="GridCell.Tab.0.left/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580125717221" />
+    <state width="1366" height="121" key="GridCell.Tab.0.left/0.0.1366.706@0.0.1366.706" timestamp="1580342297580" />
+    <state width="1920" height="293" key="GridCell.Tab.0.left/1920.74.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1579341156801" />
+    <state width="1366" height="121" key="GridCell.Tab.0.right" timestamp="1580342297580">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1920" height="192" key="GridCell.Tab.0.right/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580125717221" />
+    <state width="1366" height="121" key="GridCell.Tab.0.right/0.0.1366.706@0.0.1366.706" timestamp="1580342297580" />
+    <state width="1920" height="293" key="GridCell.Tab.0.right/1920.74.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1579341156801" />
+    <state width="1366" height="122" key="GridCell.Tab.1.bottom" timestamp="1580073557525">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1366" height="122" key="GridCell.Tab.1.bottom/0.0.1366.706@0.0.1366.706" timestamp="1580073557525" />
+    <state width="1366" height="122" key="GridCell.Tab.1.center" timestamp="1580073557525">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1366" height="122" key="GridCell.Tab.1.center/0.0.1366.706@0.0.1366.706" timestamp="1580073557525" />
+    <state width="1366" height="122" key="GridCell.Tab.1.left" timestamp="1580073557525">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1366" height="122" key="GridCell.Tab.1.left/0.0.1366.706@0.0.1366.706" timestamp="1580073557525" />
+    <state width="1366" height="122" key="GridCell.Tab.1.right" timestamp="1580073557525">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state width="1366" height="122" key="GridCell.Tab.1.right/0.0.1366.706@0.0.1366.706" timestamp="1580073557525" />
+    <state x="461" y="140" key="SettingsEditor" timestamp="1580131839532">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="461" y="140" key="SettingsEditor/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580131839532" />
+    <state x="531" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1580130091910">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="531" y="252" key="com.intellij.ide.util.TipDialog/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580130091910" />
+    <state x="378" y="175" key="com.intellij.ide.util.TipDialog/0.0.1366.706@0.0.1366.706" timestamp="1579730225483" />
+    <state x="685" y="459" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580131694639">
+      <screen x="0" y="0" width="1920" height="1018" />
+    </state>
+    <state x="685" y="459" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580131694639" />
+    <state x="362" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579730270161">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state x="362" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.706@0.0.1366.706" timestamp="1579730270161" />
+    <state x="131" y="0" key="new project wizard" timestamp="1580337604973">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state x="342" y="232" key="new project wizard/-1366.0.1366.706/0.0.1920.1018@0.0.1920.1018" timestamp="1580131340755" />
+    <state x="131" y="0" key="new project wizard/0.0.1366.706@0.0.1366.706" timestamp="1580337604973" />
+    <state x="339" y="151" key="run.anything.popup" timestamp="1579449020526">
+      <screen x="0" y="0" width="1366" height="706" />
+    </state>
+    <state x="339" y="151" key="run.anything.popup/0.0.1366.706@0.0.1366.706" timestamp="1579449020526" />
+  </component>
+</project>
